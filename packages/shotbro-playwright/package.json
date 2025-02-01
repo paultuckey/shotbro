@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@fontsource/open-sans": "^5.1.0",
-    "@playwright/test": "^1.49.0",
+    "@playwright/test": "^1.50.1",
     "@types/node": "^18.19.64",
     "@types/pixelmatch": "^5.2.6",
     "@types/pngjs": "^6.0.5",
