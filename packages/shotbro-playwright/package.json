@@ -42,7 +42,7 @@
     "@playwright/test": ">= 1"
   },
   "devDependencies": {
-    "@fontsource/open-sans": "^5.1.0",
+    "@fontsource/open-sans": "^5.2.5",
     "@playwright/test": "^1.52.0",
     "@types/node": "^18.19.64",
     "@types/pixelmatch": "^5.2.6",
